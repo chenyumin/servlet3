@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Jan 18 09:37:01 CST 2017
+org.eclipse.jst.jee.server\:/binary\:E\:\\peixun\\servlet3\\WebContent\\WEB-INF\\lib\\module1.jar=WEB-INF/lib/module1.jar
+org.eclipse.jst.jee.server\:module2=WEB-INF/lib/module2.war
+org.eclipse.jst.jee.server\:module1=WEB-INF/lib/module1.war
+org.eclipse.jst.jee.server\:/binary\:E\:\\peixun\\servlet3\\WebContent\\WEB-INF\\lib\\module2.jar=WEB-INF/lib/module2.jar

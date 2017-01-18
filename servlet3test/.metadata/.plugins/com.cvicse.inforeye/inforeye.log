@@ -1,0 +1,16 @@
+INFO Worker-4 com.cvicse.inforeye.InforEyePlugin - InforEye started at 2014-08-28 01:16:09
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\module1
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\module1\src
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\module1
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\module1\src
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\module2
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\module2\src
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\servlet3
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\servlet3\src
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\module1
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\module1\src
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\module2
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\module2\src
+INFO Worker-5 com.cvicse.inforeye.InforEyePlugin - InforEye started at 2017-01-18 09:26:19
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - proPath=E:\peixun\servlet3
+DEBUG main com.cvicse.inforeye.project.actions.BuildAllAction - srcPath=E:\peixun\servlet3\src
